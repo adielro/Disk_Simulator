@@ -78,6 +78,7 @@ FsFile.h
 FileDescriptor.h
 fsDisk.h
 fsDisk.cpp
+main.cpp
 
 
 ==How to complie==
